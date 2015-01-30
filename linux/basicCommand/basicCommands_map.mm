@@ -1,6 +1,6 @@
 <map version="freeplane 1.2.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node ID="ID_1394156218" CREATED="1329421633024" MODIFIED="1421092734674" BACKGROUND_COLOR="#ffff00"><richcontent TYPE="NODE">
+<node ID="ID_1394156218" CREATED="1329421633024" MODIFIED="1422136490644" BACKGROUND_COLOR="#ffff00"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8,14 +8,10 @@
   </head>
   <body>
     <p style="text-align: center">
-      <b>Comandos </b>
-    </p>
-    <p style="text-align: center">
-      <b>Shell</b>
+      <b>Shell Commands</b>
     </p>
   </body>
 </html>
-
 </richcontent>
 <hook NAME="MapStyle">
 
@@ -502,6 +498,20 @@
 </html>
 </richcontent>
 </node>
+<node ID="ID_81110168" CREATED="1329422138798" MODIFIED="1422132417606"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#ff0000">head -1</font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node ID="ID_1894956220" CREATED="1329422251450" MODIFIED="1420827830156"><richcontent TYPE="NODE">
 
@@ -572,7 +582,7 @@
   </body>
 </html>
 </richcontent>
-<node ID="ID_1563680332" CREATED="1329422355308" MODIFIED="1329423547847"><richcontent TYPE="NODE">
+<node ID="ID_1563680332" CREATED="1329422355308" MODIFIED="1422133105674"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -580,13 +590,13 @@
   </head>
   <body>
     <p>
-      <font color="#ff0000"><b>-h <i>[subop&#231;&#227;o]</i></b></font>
+      <b><font color="#ff0000">-h <i>[options]</i></font></b>
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node ID="ID_1317107837" CREATED="1329422359439" MODIFIED="1329423555510"><richcontent TYPE="NODE">
+<node ID="ID_1317107837" CREATED="1329422359439" MODIFIED="1422133100938"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -594,13 +604,13 @@
   </head>
   <body>
     <p>
-      <font color="#ff0000"><b>-b <i>[subop&#231;&#227;o]</i></b></font>
+      <b><font color="#ff0000">-b <i>[oprtions]</i></font></b>
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node ID="ID_896484402" CREATED="1329422362027" MODIFIED="1329423568635"><richcontent TYPE="NODE">
+<node ID="ID_896484402" CREATED="1329422362027" MODIFIED="1422133096385"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -608,13 +618,13 @@
   </head>
   <body>
     <p>
-      <font color="#ff0000"><b>-f <i>[subop&#231;&#227;o]</i></b></font>
+      <b><font color="#ff0000">-f <i>[options]</i></font></b>
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node ID="ID_980455296" CREATED="1329422521918" MODIFIED="1329423577970"><richcontent TYPE="NODE">
+<node ID="ID_1748778794" CREATED="1329422521918" MODIFIED="1422133040872"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -622,12 +632,12 @@
   </head>
   <body>
     <p>
-      <font color="#ff0000"><b>[subop&#231;&#227;o]</b></font>
+      <b><font color="#ff0000">-i[<i>number</i>]</font></b>
     </p>
   </body>
 </html>
 </richcontent>
-<node ID="ID_526397061" CREATED="1329422524586" MODIFIED="1329423585787"><richcontent TYPE="NODE">
+<node ID="ID_88093832" CREATED="1329422524586" MODIFIED="1329423585787"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -641,7 +651,7 @@
 </html>
 </richcontent>
 </node>
-<node ID="ID_287153561" CREATED="1329422528021" MODIFIED="1329423593066"><richcontent TYPE="NODE">
+<node ID="ID_283797481" CREATED="1329422528021" MODIFIED="1329423593066"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -655,7 +665,63 @@
 </html>
 </richcontent>
 </node>
-<node ID="ID_80014213" CREATED="1329422529088" MODIFIED="1329423601782"><richcontent TYPE="NODE">
+<node ID="ID_1339703210" CREATED="1329422529088" MODIFIED="1329423601782"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff0000"><b>n</b></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_992391042" CREATED="1329422521918" MODIFIED="1422133084643"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#ff0000">-s[<i>string</i>]</font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1443570387" CREATED="1329422524586" MODIFIED="1329423585787"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff0000"><b>A</b></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1559425563" CREATED="1329422528021" MODIFIED="1329423593066"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff0000"><b>t</b></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1059216907" CREATED="1329422529088" MODIFIED="1329423601782"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -765,12 +831,12 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font>&#160;<font color="#ff0000"><b>paste <i>[op&#231;&#245;es]</i>&#160;arquivo1 arquivo2</b></font>
+      <b><font color="#00ff00">$</font></b>&#160;<b><font color="#ff0000">paste <i>[op&#231;&#245;es]</i>&#160;arquivo1 arquivo2</font></b>
     </p>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1669429119" CREATED="1329422311512" MODIFIED="1329744840553"><richcontent TYPE="NODE">
+<node ID="ID_1669429119" CREATED="1329422311512" MODIFIED="1422135246644"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -778,7 +844,7 @@
   </head>
   <body>
     <p>
-      <font color="#ff0000"><b>-d'<i>[um caracter] '</i></b></font>
+      <b><font color="#ff0000">-d'<i>[one character] '</i></font></b>
     </p>
   </body>
 </html>
@@ -799,7 +865,7 @@
 </richcontent>
 </node>
 </node>
-<node ID="ID_1895270155" CREATED="1329422251450" MODIFIED="1329423724772"><richcontent TYPE="NODE">
+<node ID="ID_1895270155" CREATED="1329422251450" MODIFIED="1422132462284"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -807,7 +873,7 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font><b>&#160;<font color="#ff0000">pr <i>[op&#231;&#245;es]</i>&#160;arquivo</font></b>
+      <b><font color="#00ff00">$</font>&#160;<font color="#ff0000">pr <i>[option]</i>&#160;file</font></b>
     </p>
   </body>
 </html>
@@ -826,7 +892,7 @@
 </html>
 </richcontent>
 </node>
-<node ID="ID_736125423" CREATED="1329422652412" MODIFIED="1329423740650"><richcontent TYPE="NODE">
+<node ID="ID_736125423" CREATED="1329422652412" MODIFIED="1422132467252"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -834,13 +900,13 @@
   </head>
   <body>
     <p>
-      <font color="#ff0000"><b>-l <i>[n&#250;mero]</i></b></font>
+      <b><font color="#ff0000">-l <i>[number]</i></font></b>
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node ID="ID_376090476" CREATED="1329422661844" MODIFIED="1329615453392"><richcontent TYPE="NODE">
+<node ID="ID_376090476" CREATED="1329422661844" MODIFIED="1422132472998"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -848,14 +914,14 @@
   </head>
   <body>
     <p>
-      <font color="#ff0000"><b>-o <i>[n&#250;mero]</i></b></font>
+      <b><font color="#ff0000">-o <i>[number]</i></font></b>
     </p>
   </body>
 </html>
 </richcontent>
 </node>
 </node>
-<node ID="ID_1859032751" CREATED="1329422251450" MODIFIED="1329423769740"><richcontent TYPE="NODE">
+<node ID="ID_1859032751" CREATED="1329422251450" MODIFIED="1422133864624"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -863,7 +929,7 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font><b>&#160;<font color="#ff0000">split <i>[op&#231;&#245;es]</i>&#160;arquivo_in arquivo_out</font></b>
+      <b><font color="#00ff00">$</font>&#160;<font color="#ff0000">split <i>[option]</i>&#160;<i>file_in file_out</i></font></b>
     </p>
   </body>
 </html>
@@ -883,7 +949,7 @@
 </richcontent>
 </node>
 </node>
-<node ID="ID_882205865" CREATED="1329422906049" MODIFIED="1329423792052"><richcontent TYPE="NODE">
+<node ID="ID_882205865" CREATED="1329422906049" MODIFIED="1422135232906"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -891,13 +957,13 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font><b>&#160;<font color="#ff0000">tac <i>[arquivos]</i></font></b>
+      <b><font color="#00ff00">$</font>&#160;<font color="#ff0000">tac <i>[file]</i></font></b>
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node ID="ID_1775646357" CREATED="1329421959183" MODIFIED="1329615133210">
+<node ID="ID_1775646357" CREATED="1329421959183" MODIFIED="1422135239301">
 <icon BUILTIN="ksmiletris"/>
 <richcontent TYPE="NODE">
 
@@ -907,12 +973,12 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font><b>&#160;<font color="#ff0000">tail <i>[op&#231;&#245;es]</i>&#160;[arquivo]</font></b>
+      <b><font color="#00ff00">$</font>&#160;<font color="#ff0000">tail <i>[file]</i>&#160;[file]</font></b>
     </p>
   </body>
 </html>
 </richcontent>
-<node ID="ID_920714997" CREATED="1329422955763" MODIFIED="1329423818831"><richcontent TYPE="NODE">
+<node ID="ID_920714997" CREATED="1329422955763" MODIFIED="1422133877938"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -920,7 +986,7 @@
   </head>
   <body>
     <p>
-      <font color="#ff0000"><b>-n <i>[n&#250;mero]</i></b></font>
+      <b><font color="#ff0000">-n <i>[number]</i></font></b>
     </p>
   </body>
 </html>
@@ -941,7 +1007,7 @@
 </richcontent>
 </node>
 </node>
-<node ID="ID_1899444937" CREATED="1329421959183" MODIFIED="1329423842732"><richcontent TYPE="NODE">
+<node ID="ID_1899444937" CREATED="1329421959183" MODIFIED="1422135227322"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -949,7 +1015,7 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font><b>&#160;<font color="#ff0000">tr <i>[op&#231;&#245;es]</i>&#160;var_busca var_troca</font></b>
+      <b><font color="#00ff00">$</font>&#160;<font color="#ff0000">tr <i>[option]</i>&#160;var_search var_change</font></b>
     </p>
   </body>
 </html>
@@ -982,8 +1048,7 @@
 </html>
 </richcontent>
 </node>
-</node>
-<node ID="ID_392788072" CREATED="1329421959183" MODIFIED="1329423885900"><richcontent TYPE="NODE">
+<node ID="ID_42309500" CREATED="1422135161261" MODIFIED="1422135200341"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -991,7 +1056,22 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font><b>&#160;<font color="#ff0000">wc <i>[op&#231;&#245;es]</i>&#160;[arquivos]</font></b>
+      <b><font color="#ff0000">tr 'strFind' 'strReplace' &lt; input &gt; output</font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_392788072" CREATED="1329421959183" MODIFIED="1422133391895"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#00ff00">$</font>&#160;<font color="#ff0000">wc <i>[option]</i>&#160;[<i>files</i>]</font></b>
     </p>
   </body>
 </html>
@@ -1052,8 +1132,7 @@
 </html>
 </richcontent>
 </node>
-</node>
-<node ID="ID_703494670" CREATED="1329421959183" MODIFIED="1329423941297"><richcontent TYPE="NODE">
+<node ID="ID_1855751284" CREATED="1329423048818" MODIFIED="1422133476350"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1061,7 +1140,22 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font><b>&#160;<font color="#ff0000">xargs comando <i>[op&#231;&#245;es]</i>&#160;arg_incial</font></b>
+      <b><font color="#ff0000">lines, word, bytes</font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_703494670" CREATED="1329421959183" MODIFIED="1422134228179"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#00ff00">$</font>&#160;<font color="#ff0000">xargs <i>[command]</i>&#160;<i>[option]</i>&#160;arg_initial</font></b>
     </p>
   </body>
 </html>
@@ -1108,6 +1202,78 @@
 </html>
 </richcontent>
 </node>
+<node ID="ID_1444136013" CREATED="1329423116424" MODIFIED="1422134242447"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#ff0000">-d<i>[delimiter]</i></font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1802453535" CREATED="1329423116424" MODIFIED="1422134338289"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#ff0000">-n<i>[number]</i></font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1949191778" CREATED="1422134684855" MODIFIED="1422134707531"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#ff0000">find . -name &quot;*.c&quot; | xargs rm -rf</font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_792324998" CREATED="1422134768810" MODIFIED="1422134782940"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff0032">--show-limits</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true"/>
+</node>
+<node ID="ID_612630562" CREATED="1422134862106" MODIFIED="1422134873485"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff0000">find . -name '*.c' | xargs grep 'stdlib.h'</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true"/>
+</node>
 </node>
 <node ID="ID_874537336" CREATED="1329421959183" MODIFIED="1420826312813"><richcontent TYPE="NODE">
 
@@ -1117,14 +1283,98 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font><b>&#160;<font color="#ff0000">grap</font></b>
+      <b><font color="#00ff00">$</font>&#160;<font color="#ff0000">grap</font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1247439051" CREATED="1329421959183" MODIFIED="1422135877992"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#ff0000">grap &quot;<i>string&quot; filename</i></font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_678042085" CREATED="1329421959183" MODIFIED="1422135951739"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#ff0000">grap &quot;<i>string&quot; file_pattern</i></font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1277812926" CREATED="1329421959183" MODIFIED="1422135979039"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#ff0000"><i>-i</i></font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_880226575" CREATED="1329421959183" MODIFIED="1422136089830"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#ff0000"><i>-w</i></font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_895562050" CREATED="1329421959183" MODIFIED="1422136272667"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#ff0000"><i>-A &lt;number&gt;</i></font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1688714048" CREATED="1329421959183" MODIFIED="1422136282005"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#ff0000"><i>-B &lt;number&gt;</i></font></b>
     </p>
   </body>
 </html>
 </richcontent>
 </node>
 </node>
-<node POSITION="left" ID="ID_710849013" CREATED="1329608497064" MODIFIED="1329615092940">
+</node>
+<node POSITION="left" ID="ID_710849013" CREATED="1329608497064" MODIFIED="1422645030039">
 <icon BUILTIN="kmail"/>
 <richcontent TYPE="NODE">
 
@@ -1134,16 +1384,14 @@
   </head>
   <body>
     <p style="text-align: center">
-      <font color="#ff00ff"><b>Dispositivos e </b></font>
-    </p>
-    <p style="text-align: center">
-      <font color="#ff00ff"><b>Sistema de arquivos</b></font>
+      <b><font color="#ff00ff">Device and File system</font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
-<font NAME="SansSerif" SIZE="12" BOLD="true"/>
-<node ID="ID_1734701241" CREATED="1329608497064" MODIFIED="1329608615295"><richcontent TYPE="NODE">
+<font NAME="SansSerif" SIZE="10" BOLD="true"/>
+<node ID="ID_1734701241" CREATED="1329608497064" MODIFIED="1422645057750"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1151,10 +1399,11 @@
   </head>
   <body>
     <p style="text-align: center">
-      <font color="#00ff00"><b>#</b></font><b><font color="#ff00ff">&#160;fdisk <i>[dispositivo]</i></font></b>
+      <b><font color="#00ff00">#</font><font color="#ff00ff">&#160;fdisk <i>[device]</i></font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
 <node ID="ID_1032951839" CREATED="1329608497064" MODIFIED="1329608645544"><richcontent TYPE="NODE">
 
@@ -1241,7 +1490,7 @@
 </richcontent>
 </node>
 </node>
-<node ID="ID_944014720" CREATED="1329608497064" MODIFIED="1329608753900"><richcontent TYPE="NODE">
+<node ID="ID_944014720" CREATED="1329608497064" MODIFIED="1422645082278"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1249,10 +1498,11 @@
   </head>
   <body>
     <p style="text-align: center">
-      <font color="#00ff00"><b>#</b></font><b><font color="#ff00ff">&#160;mkfs <i>[-t tipo]</i>&#160;<i>[op&#231;&#245;es] </i>dispositivo</font></b>
+      <b><font color="#00ff00">#</font><font color="#ff00ff">&#160;mkfs <i>[-t type]</i>&#160;<i>[option] </i>device</font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
 <node ID="ID_516122451" CREATED="1329608497064" MODIFIED="1329608762516"><richcontent TYPE="NODE">
 
@@ -1268,7 +1518,7 @@
 </html>
 </richcontent>
 </node>
-<node ID="ID_897610098" CREATED="1329608497064" MODIFIED="1329608776022"><richcontent TYPE="NODE">
+<node ID="ID_897610098" CREATED="1329608497064" MODIFIED="1422645194764"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1276,13 +1526,14 @@
   </head>
   <body>
     <p style="text-align: center">
-      <font color="#ff00ff"><b>-L <i>nome</i></b></font>
+      <b><font color="#ff00ff">-L <i>name</i></font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
-<node ID="ID_1738755909" CREATED="1329608497064" MODIFIED="1329608787994"><richcontent TYPE="NODE">
+<node ID="ID_1738755909" CREATED="1329608497064" MODIFIED="1422645199007"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1290,10 +1541,11 @@
   </head>
   <body>
     <p style="text-align: center">
-      <font color="#ff00ff"><b>-n <i>nome</i></b></font>
+      <b><font color="#ff00ff">-n <i>name</i></font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 <node ID="ID_1297242905" CREATED="1329608497064" MODIFIED="1329608793308"><richcontent TYPE="NODE">
@@ -1325,7 +1577,7 @@
 </richcontent>
 </node>
 </node>
-<node ID="ID_1250645492" CREATED="1329608497064" MODIFIED="1329608857579"><richcontent TYPE="NODE">
+<node ID="ID_1250645492" CREATED="1329608497064" MODIFIED="1422645212093"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1333,13 +1585,14 @@
   </head>
   <body>
     <p style="text-align: center">
-      <font color="#00ff00"><b>#</b></font><b><font color="#ff00ff">&#160;mkswap <i>parti&#231;&#227;oswap</i></font></b>
+      <b><font color="#00ff00">#</font><font color="#ff00ff">&#160;mkswap <i>swap_partition</i></font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
-<node ID="ID_794592293" CREATED="1329608497064" MODIFIED="1329744675036">
+<node ID="ID_794592293" CREATED="1329608497064" MODIFIED="1422645783723">
 <icon BUILTIN="ksmiletris"/>
 <richcontent TYPE="NODE">
 
@@ -1349,10 +1602,11 @@
   </head>
   <body>
     <p style="text-align: center">
-      <font color="#00ff00"><b>$</b></font><b><font color="#ff00ff">&#160;df <i>[op&#231;&#245;es] [diret&#243;rios]</i></font></b>
+      <b><font color="#00ff00">$</font><font color="#ff00ff">&#160;df <i>[option] [directory]</i></font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
 <node ID="ID_1092876909" CREATED="1329608497064" MODIFIED="1329608965179"><richcontent TYPE="NODE">
 
@@ -1382,8 +1636,7 @@
 </html>
 </richcontent>
 </node>
-</node>
-<node ID="ID_23486798" CREATED="1329608497064" MODIFIED="1329609004939"><richcontent TYPE="NODE">
+<node ID="ID_223842253" CREATED="1329608497064" MODIFIED="1422646678168"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1391,10 +1644,42 @@
   </head>
   <body>
     <p style="text-align: center">
-      <font color="#00ff00"><b>$</b></font><b><font color="#ff00ff">&#160;du <i>[op&#231;&#245;es] [diret&#243;rios]</i></font></b>
+      <b><font color="#ff00ff">-T</font></b>
     </p>
   </body>
 </html>
+
+</richcontent>
+</node>
+<node ID="ID_1608881102" CREATED="1329608497064" MODIFIED="1422646750369"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#ff00ff">-x</font></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node ID="ID_23486798" CREATED="1329608497064" MODIFIED="1422646273167"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#00ff00">$</font><font color="#ff00ff">&#160;du <i>[options] [directories]</i></font></b>
+    </p>
+  </body>
+</html>
+
 </richcontent>
 <node ID="ID_878380704" CREATED="1329608497064" MODIFIED="1329608965179"><richcontent TYPE="NODE">
 
@@ -1466,8 +1751,7 @@
 </html>
 </richcontent>
 </node>
-</node>
-<node ID="ID_1189843334" CREATED="1329608497064" MODIFIED="1329609105942"><richcontent TYPE="NODE">
+<node ID="ID_408650421" CREATED="1329608497064" MODIFIED="1422646438212"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1475,10 +1759,42 @@
   </head>
   <body>
     <p style="text-align: center">
-      <font color="#00ff00"><b>$</b></font><b><font color="#ff00ff">&#160;fsck <i>[op&#231;&#245;es] [-t tipo] [op&#231;&#245;es do tipo] dispositivo</i></font></b>
+      <b><font color="#ff00ff">--exclude=</font></b>
     </p>
   </body>
 </html>
+
+</richcontent>
+</node>
+<node ID="ID_1634821355" CREATED="1329608497064" MODIFIED="1422646458857"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#ff00ff">--time</font></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node ID="ID_1189843334" CREATED="1329608497064" MODIFIED="1422646787453"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#00ff00">$</font><font color="#ff00ff">&#160;fsck <i>[option] [-t type] [type_options] device</i></font></b>
+    </p>
+  </body>
+</html>
+
 </richcontent>
 <node ID="ID_1698746222" CREATED="1329608497064" MODIFIED="1329609115519"><richcontent TYPE="NODE">
 
@@ -1592,8 +1908,23 @@
 </richcontent>
 </node>
 </node>
+<node ID="ID_839872257" CREATED="1329608497064" MODIFIED="1422647662826"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#ff00ff">parted /device/path 'print'</font></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
-<node ID="ID_1441210987" CREATED="1329744686867" MODIFIED="1329744733258"><richcontent TYPE="NODE">
+</node>
+<node ID="ID_1441210987" CREATED="1329744686867" MODIFIED="1422647762906"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1601,13 +1932,14 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font><b><font color="#ff00ff">&#160;which <i>comando</i></font></b>
+      <b><font color="#00ff00">$</font><font color="#ff00ff">&#160;which <i>command</i></font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
-<node ID="ID_712086137" CREATED="1329608497064" MODIFIED="1329609255629"><richcontent TYPE="NODE">
+<node ID="ID_712086137" CREATED="1329608497064" MODIFIED="1422647814390"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1615,13 +1947,13 @@
   </head>
   <body>
     <p style="text-align: center">
-      <font color="#00ff00"><b>$</b></font><b><font color="#ff00ff">&#160;find <i>caminho express&#227;o</i></font></b>
+      <b><font color="#00ff00">$</font><font color="#ff00ff">&#160;find <i>path&#160;expression</i></font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
-</node>
-<node ID="ID_151477984" CREATED="1329608497064" MODIFIED="1329609299111"><richcontent TYPE="NODE">
+<node ID="ID_1987914101" CREATED="1329608497064" MODIFIED="1422648009494"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1629,10 +1961,162 @@
   </head>
   <body>
     <p style="text-align: center">
-      <font color="#00ff00"><b>$</b></font><b><font color="#ff00ff">&#160;locate arquivo</font></b>
+      <b><font color="#ff00ff">!find</font></b>
     </p>
   </body>
 </html>
+
+</richcontent>
+</node>
+<node ID="ID_947285881" CREATED="1329608497064" MODIFIED="1422648035869"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#ff00ff">-name</font></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_606280699" CREATED="1329608497064" MODIFIED="1422648058141"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#ff00ff">-mtime</font></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node ID="ID_134158055" CREATED="1329608497064" MODIFIED="1422648117866"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#ff00ff">+[<i>number]</i></font></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_946863417" CREATED="1329608497064" MODIFIED="1422648109966"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#ff00ff">-[<i>number]</i></font></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_1259946881" CREATED="1329608497064" MODIFIED="1422648125199"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#ff00ff">[<i>number</i>]</font></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node ID="ID_909121448" CREATED="1329608497064" MODIFIED="1422648153892"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#ff00ff">-perm [<i>permition</i>]</font></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_621260809" CREATED="1329608497064" MODIFIED="1422648182873"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#ff00ff">-i</font></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_217168015" CREATED="1422648299844" MODIFIED="1422648326137"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#f400ff">find . -name &quot;*.tmp&quot; -print | xargs rm &#8211;f</font></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_318699385" CREATED="1422648299844" MODIFIED="1422648422007"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#f400ff">find . &#8211;name &quot;*.txt&quot; &#8211;print | xargs grep &quot;Exception&quot;</font></b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node ID="ID_151477984" CREATED="1329608497064" MODIFIED="1422647820770"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      <b><font color="#00ff00">$</font><font color="#ff00ff">&#160;locate <i>file</i></font></b>
+    </p>
+  </body>
+</html>
+
 </richcontent>
 </node>
 <node ID="ID_782324874" CREATED="1329608497064" MODIFIED="1329609319052"><richcontent TYPE="NODE">
@@ -1678,7 +2162,7 @@
 </richcontent>
 </node>
 </node>
-<node POSITION="left" ID="ID_918046944" CREATED="1329607477761" MODIFIED="1329615103226">
+<node POSITION="left" ID="ID_918046944" CREATED="1329607477761" MODIFIED="1422649498894">
 <icon BUILTIN="folder"/>
 <richcontent TYPE="NODE">
 
@@ -1688,15 +2172,16 @@
   </head>
   <body>
     <p style="text-align: center">
-      <font color="#0000ff"><b>Gerenciamento b&#225;sico </b></font>
+      <b><font color="#0000ff">Basic file </font></b>
     </p>
     <p style="text-align: center">
-      <font color="#0000ff"><b>de arquivos</b></font>
+      <b><font color="#0000ff">management</font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
-<node ID="ID_667374954" CREATED="1329607507567" MODIFIED="1329615147595">
+<node ID="ID_667374954" CREATED="1329607507567" MODIFIED="1422649117134">
 <icon BUILTIN="ksmiletris"/>
 <richcontent TYPE="NODE">
 
@@ -1706,10 +2191,11 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font>&#160;<font color="#0000ff"><b>cp <i>[op&#231;&#245;es]</i>&#160;arquivo destino</b></font>
+      <b><font color="#00ff00">$</font></b>&#160;<b><font color="#0000ff">cp <i>[option]</i>&#160;file dest</font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
 <node ID="ID_1256804840" CREATED="1329607507567" MODIFIED="1329607889247"><richcontent TYPE="NODE">
 
@@ -1810,7 +2296,7 @@
 </richcontent>
 </node>
 </node>
-<node ID="ID_453727249" CREATED="1329607507567" MODIFIED="1329615151498">
+<node ID="ID_453727249" CREATED="1329607507567" MODIFIED="1422649127425">
 <icon BUILTIN="ksmiletris"/>
 <richcontent TYPE="NODE">
 
@@ -1820,10 +2306,11 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font>&#160;<font color="#0000ff"><b>mv <i>[op&#231;&#245;es]</i>&#160;origem destino</b></font>
+      <b><font color="#00ff00">$</font></b>&#160;<b><font color="#0000ff">mv <i>[option]</i>&#160;origin dest</font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
 <node ID="ID_603837389" CREATED="1329607507567" MODIFIED="1329607988785"><richcontent TYPE="NODE">
 
@@ -1854,7 +2341,7 @@
 </richcontent>
 </node>
 </node>
-<node ID="ID_1220209268" CREATED="1329607507567" MODIFIED="1329608069995"><richcontent TYPE="NODE">
+<node ID="ID_1220209268" CREATED="1329607507567" MODIFIED="1422649246370"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1862,10 +2349,11 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font>&#160;<font color="#0000ff"><b>rm <i>[op&#231;&#245;es]</i>&#160;arquivos</b></font>
+      <b><font color="#00ff00">$</font></b>&#160;<b><font color="#0000ff">rm <i>[option]</i>&#160;<i>files</i></font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
 <node ID="ID_1022257853" CREATED="1329607507567" MODIFIED="1329607988785"><richcontent TYPE="NODE">
 
@@ -1898,7 +2386,7 @@
 </richcontent>
 </node>
 </node>
-<node ID="ID_1764972265" CREATED="1329607507567" MODIFIED="1329608105923"><richcontent TYPE="NODE">
+<node ID="ID_1764972265" CREATED="1329607507567" MODIFIED="1422649256973"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1906,10 +2394,11 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font>&#160;<font color="#0000ff"><b>mkdir <i>[op&#231;&#245;es]</i>&#160;diret&#243;rio</b></font>
+      <b><font color="#00ff00">$</font></b>&#160;<b><font color="#0000ff">mkdir <i>[options]</i>&#160;directory</font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
 <node ID="ID_1203741095" CREATED="1329607507567" MODIFIED="1329608112556"><richcontent TYPE="NODE">
 
@@ -1940,7 +2429,7 @@
 </richcontent>
 </node>
 </node>
-<node ID="ID_244200707" CREATED="1329607507567" MODIFIED="1329608342510"><richcontent TYPE="NODE">
+<node ID="ID_244200707" CREATED="1329607507567" MODIFIED="1422649267969"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1948,13 +2437,14 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font>&#160;<font color="#0000ff"><b>rmdir <i>[op&#231;&#245;es]</i>&#160;diret&#243;rios</b></font>
+      <b><font color="#00ff00">$</font></b>&#160;<b><font color="#0000ff">rmdir <i>[options]</i>&#160;dir</font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
-<node ID="ID_476054463" CREATED="1329607507567" MODIFIED="1329608375767"><richcontent TYPE="NODE">
+<node ID="ID_476054463" CREATED="1329607507567" MODIFIED="1422649275500"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1962,10 +2452,11 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font>&#160;<font color="#0000ff"><b>touch <i>[op&#231;&#245;es]</i>&#160;arquivos</b></font>
+      <b><font color="#00ff00">$</font></b>&#160;<b><font color="#0000ff">touch <i>[option]</i>&#160;files</font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
 <node ID="ID_1253585153" CREATED="1329607507567" MODIFIED="1329608384564"><richcontent TYPE="NODE">
 
@@ -1995,7 +2486,7 @@
 </html>
 </richcontent>
 </node>
-<node ID="ID_1826492803" CREATED="1329607507567" MODIFIED="1329608413108"><richcontent TYPE="NODE">
+<node ID="ID_1826492803" CREATED="1329607507567" MODIFIED="1422649459720"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2003,14 +2494,15 @@
   </head>
   <body>
     <p>
-      <font color="#0000ff"><b>-t datahora</b></font>
+      <b><font color="#0000ff">-t dateTime</font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 </node>
-<node ID="ID_348140408" CREATED="1329607507567" MODIFIED="1329608444293"><richcontent TYPE="NODE">
+<node ID="ID_348140408" CREATED="1329607507567" MODIFIED="1422649286653"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2018,10 +2510,11 @@
   </head>
   <body>
     <p>
-      <font color="#00ff00"><b>$</b></font>&#160;<font color="#0000ff"><b>tee <i>[op&#231;&#245;es]</i>&#160;arquivos</b></font>
+      <b><font color="#00ff00">$</font></b>&#160;<b><font color="#0000ff">tee <i>[option]</i>&#160;files</font></b>
     </p>
   </body>
 </html>
+
 </richcontent>
 <node ID="ID_1833814610" CREATED="1329607507567" MODIFIED="1329608453699"><richcontent TYPE="NODE">
 
@@ -2039,7 +2532,7 @@
 </node>
 </node>
 </node>
-<node POSITION="right" ID="ID_120371962" CREATED="1329421710361" MODIFIED="1329615209582"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_120371962" CREATED="1329421710361" MODIFIED="1422132394341"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2047,7 +2540,7 @@
   </head>
   <body>
     <p>
-      <b>B&#225;sicos</b>
+      <b>Basic</b>
     </p>
   </body>
 </html>
@@ -2093,7 +2586,7 @@
   </body>
 </html>
 </richcontent>
-<node ID="ID_1554258813" CREATED="1329421914605" MODIFIED="1329615228879"><richcontent TYPE="NODE">
+<node ID="ID_1554258813" CREATED="1329421914605" MODIFIED="1422131946600"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2101,13 +2594,13 @@
   </head>
   <body>
     <p>
-      <b>a</b>
+      <b>-a</b>
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node ID="ID_1380950498" CREATED="1329421918569" MODIFIED="1329615232808"><richcontent TYPE="NODE">
+<node ID="ID_1380950498" CREATED="1329421918569" MODIFIED="1422131819059"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2115,13 +2608,30 @@
   </head>
   <body>
     <p>
-      <b>t</b>
+      <b>-t</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="ls -t | head -1" ID="ID_515360486" CREATED="1422131821309" MODIFIED="1422131839257">
+<font BOLD="true"/>
+</node>
+<node ID="ID_1172329921" CREATED="1422131830281" MODIFIED="1422131872616"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>vim&#160;`ls -t | head -1`</b>
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node ID="ID_1461387850" CREATED="1329421921983" MODIFIED="1329615236933"><richcontent TYPE="NODE">
+</node>
+<node ID="ID_1461387850" CREATED="1329421921983" MODIFIED="1422131945383"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2129,7 +2639,7 @@
   </head>
   <body>
     <p>
-      <b>l</b>
+      <b>-l</b>
     </p>
   </body>
 </html>
@@ -2149,6 +2659,77 @@
 </html>
 </richcontent>
 </node>
+<node TEXT="-1" OBJECT="java.lang.Long|-1" ID="ID_1877867421" CREATED="1422131923791" MODIFIED="1422131927815">
+<font BOLD="true"/>
+</node>
+<node ID="ID_1597215445" CREATED="1422131983570" MODIFIED="1422131987239"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-lh</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="-lt" ID="ID_598937396" CREATED="1422132059921" MODIFIED="1422132067257">
+<font BOLD="true"/>
+</node>
+<node ID="ID_1848250321" CREATED="1422132082339" MODIFIED="1422132088340"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-ltr</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_681135172" CREATED="1422132117649" MODIFIED="1422132120431"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-R</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_881711211" CREATED="1422132214808" MODIFIED="1422132217796"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-F</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="*" ID="ID_175307578" CREATED="1422132219770" MODIFIED="1422132818416">
+<font BOLD="true"/>
+</node>
+<node TEXT="/" ID="ID_1016886932" CREATED="1422132221601" MODIFIED="1422132819387">
+<font BOLD="true"/>
+</node>
+<node TEXT="@" ID="ID_504109192" CREATED="1422132224095" MODIFIED="1422132821909">
+<font BOLD="true"/>
+</node>
+</node>
 </node>
 <node ID="ID_349797054" CREATED="1329663265221" MODIFIED="1329663271557"><richcontent TYPE="NODE">
 
@@ -2165,7 +2746,7 @@
 </richcontent>
 </node>
 </node>
-<node POSITION="right" ID="ID_298350684" CREATED="1329421815102" MODIFIED="1329615256202"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_298350684" CREATED="1329421815102" MODIFIED="1422135716577"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2173,10 +2754,7 @@
   </head>
   <body>
     <p style="text-align: center">
-      <font color="#00ffff"><b>Vari&#225;veis de </b></font>
-    </p>
-    <p style="text-align: center">
-      <font color="#00ffff"><b>ambiente</b></font>
+      <b><font color="#00ffff">Environment variable</font></b>
     </p>
   </body>
 </html>
@@ -2224,7 +2802,7 @@
 </richcontent>
 </node>
 </node>
-<node POSITION="left" ID="ID_662963230" CREATED="1329421734515" MODIFIED="1329615389035">
+<node POSITION="left" ID="ID_662963230" CREATED="1329421734515" MODIFIED="1422136409769">
 <icon BUILTIN="back"/>
 <richcontent TYPE="NODE">
 
@@ -2234,7 +2812,7 @@
   </head>
   <body>
     <p>
-      <font color="#ff4600"><b>Outros</b></font>
+      <b><font color="#ff4600">Others</font></b>
     </p>
   </body>
 </html>
